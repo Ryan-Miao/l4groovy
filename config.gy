@@ -1,0 +1,13 @@
+path{
+    //THis is file update list txt path.The file should contain a batch of file path.
+    file_update_list = "e:/test.xml";
+    //This is root directory of workspace
+    workspace_root_path = "e:/work";
+    //This is directory for backup
+    backup_path = "e:/download";
+}
+
+//Don't modify below config!!
+constants{
+    debug = "Y"
+}
